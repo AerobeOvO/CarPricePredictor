@@ -16,8 +16,8 @@ sklearn
 Linear regression
 random forest
 # What we have learned
-use of dummy columns
-dropping units for a column
+use of dummy columns,
+dropping units for a column,
 replace missing values with the mean
 # Reference
 https://www.kaggle.com/datasets/farhanhossein/used-vehicles-for-sale
